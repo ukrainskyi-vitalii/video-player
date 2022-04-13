@@ -1,6 +1,3 @@
 # Custom Video Player
-assets
-favicon.ico
-index.html
-style.css
-.gitignore
+
+Demo: https://ukrainskyi-vitalii.github.io/video-player/
